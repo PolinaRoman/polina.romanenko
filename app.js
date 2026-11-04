@@ -137,7 +137,7 @@ photoViewer?.addEventListener('click',event=>{if(event.target===photoViewer)clos
 photoViewer?.addEventListener('cancel',event=>{event.preventDefault();closeDogPhoto();});
 photoViewer?.addEventListener('close',()=>{if(bodyPhotoStyles){document.body.style.overflow=bodyPhotoStyles.overflow;document.body.style.paddingRight=bodyPhotoStyles.paddingRight;}if(photoOpener?.isConnected)photoOpener.focus({preventScroll:true});});
 let dogOpening=false;
-const dogIcon=new Image();dogIcon.src='./assets/dog-emoji.png';
+const dogIcon=new Image();dogIcon.src='./assets/dog-emoji.webp';
 async function burstDogIcons(button){
  if(reducedMotionPreference.matches)return;
  const box=button.getBoundingClientRect(),layer=document.createElement('div');layer.className='dog-burst';layer.setAttribute('aria-hidden','true');document.body.append(layer);
