@@ -1,0 +1,146 @@
+[
+  {
+    "page": "index",
+    "node": "1:17602",
+    "src": "./assets/video/portrait.mp4",
+    "poster": "./assets/video/portrait.jpg",
+    "label": "Видео-портрет Полины",
+    "width": 588,
+    "height": 598,
+    "background": true,
+    "mask": true
+  },
+  {
+    "page": "index",
+    "node": "1:17636",
+    "src": "./assets/video/portrait.mp4",
+    "poster": "./assets/video/portrait.jpg",
+    "label": "Видео-портрет Полины",
+    "width": 588,
+    "height": 598,
+    "background": true,
+    "mask": true
+  },
+  {
+    "page": "benefits",
+    "node": "I14:79517;14:78847",
+    "src": "./assets/video/benefits.mp4",
+    "poster": "./assets/video/benefits.jpg",
+    "label": "Демонстрация раздела «Выгода»",
+    "width": 1440,
+    "height": 1024,
+    "background": true
+  },
+  {
+    "page": "benefits",
+    "node": "I40:156259;14:78868",
+    "src": "./assets/video/benefits.mp4",
+    "poster": "./assets/video/benefits.jpg",
+    "label": "Демонстрация раздела «Выгода»",
+    "width": 1440,
+    "height": 1024,
+    "background": true
+  },
+  {
+    "page": "charity",
+    "node": "I14:80375;14:78847",
+    "src": "./assets/video/charity.mp4",
+    "poster": "./assets/video/charity.jpg",
+    "label": "Демонстрация раздела «Благотворительность»",
+    "width": 1440,
+    "height": 1024,
+    "background": true
+  },
+  {
+    "page": "charity",
+    "node": "I40:155900;14:78868",
+    "src": "./assets/video/charity.mp4",
+    "poster": "./assets/video/charity.jpg",
+    "label": "Демонстрация раздела «Благотворительность»",
+    "width": 1440,
+    "height": 1024,
+    "background": true
+  },
+  {
+    "page": "year",
+    "node": "72:26828",
+    "src": "./assets/video/year.mp4",
+    "poster": "./assets/video/year.jpg",
+    "label": "Демонстрация персональных итогов года",
+    "width": 1038,
+    "height": 1600,
+    "background": true
+  },
+  {
+    "page": "year",
+    "node": "40:158568",
+    "src": "./assets/video/year.mp4",
+    "poster": "./assets/video/year.jpg",
+    "label": "Демонстрация персональных итогов года",
+    "width": 1038,
+    "height": 1600,
+    "background": true
+  },
+  {
+    "page": "lead",
+    "node": "33:155297",
+    "src": "./assets/video/figma-plugin.mp4",
+    "poster": "./assets/video/figma-plugin.jpg",
+    "label": "Работа Figma-плагина генерации документации",
+    "width": 1590,
+    "height": 1358,
+    "overlay": "33:155298",
+    "background": true
+  },
+  {
+    "page": "lead",
+    "node": "40:158305",
+    "src": "./assets/video/figma-plugin.mp4",
+    "poster": "./assets/video/figma-plugin.jpg",
+    "label": "Работа Figma-плагина генерации документации",
+    "width": 1590,
+    "height": 1358,
+    "overlay": "40:158306",
+    "background": true
+  },
+  {
+    "page": "concepts",
+    "node": "72:27139",
+    "src": "./assets/video/categories-overview.mp4",
+    "poster": "./assets/video/categories-overview.jpg",
+    "label": "Выбор категорий: общий вид и анимация мороженого",
+    "width": 1600,
+    "height": 1044,
+    "background": true
+  },
+  {
+    "page": "concepts",
+    "node": "72:27145",
+    "src": "./assets/video/categories-overview.mp4",
+    "poster": "./assets/video/categories-overview.jpg",
+    "label": "Выбор категорий: общий вид и анимация мороженого",
+    "width": 1600,
+    "height": 1044,
+    "background": true
+  },
+  {
+    "page": "concepts",
+    "node": "72:27142",
+    "src": "./assets/video/categories-slider.mp4",
+    "poster": "./assets/video/categories-slider.jpg",
+    "label": "Выбор категорий: слайдер магазинов",
+    "width": 1600,
+    "height": 872,
+    "background": true
+  },
+  {
+    "page": "concepts",
+    "node": "72:27146",
+    "src": "./assets/video/categories-slider.mp4",
+    "poster": "./assets/video/categories-slider.jpg",
+    "label": "Выбор категорий: слайдер магазинов",
+    "width": 1600,
+    "height": 872,
+    "background": true
+  }
+]
